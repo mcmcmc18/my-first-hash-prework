@@ -26,5 +26,4 @@ def adding
   shipping_manfiest["gun powder"] = 4
 shipping_manifest
 end
-end
-end
+
